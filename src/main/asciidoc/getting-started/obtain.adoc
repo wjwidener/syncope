@@ -531,37 +531,37 @@ of Apache Groovy implementations.
 After https://syncope.apache.org/downloads[download^], start the most recent Netbeans IDE then go to 
 `Tools > Plugins`:
 
-image::netbeans01.png[netbeans01]
+image::../images/netbeans01.png[netbeans01]
 
 Click on `Downloaded > Add Plugins...`:
 
-image::netbeans02.png[netbeans02]
+image::../images/netbeans02.png[netbeans02]
 
-image::netbeans03.png[netbeans03]
+image::../images/netbeans03.png[netbeans03]
 
-image::netbeans04.png[netbeans04]
+image::../images/netbeans04.png[netbeans04]
 
 Select `Apache Syncope Netbeans IDE Plugin` and click on `Install`:
 
-image::netbeans05.png[netbeans05]
+image::../images/netbeans05.png[netbeans05]
 
-image::netbeans06.png[netbeans06]
+image::../images/netbeans06.png[netbeans06]
 
 ==== Setup
 
 Once installed go to `Window` > `Apache Syncope`:
 
-image::netbeans07.png[netbeans07]
+image::../images/netbeans07.png[netbeans07]
 
 The first time the plugin is run, it will prompt for connection details:
 
-image::netbeans12.png[netbeans12]
+image::../images/netbeans12.png[netbeans12]
 
 Once a connection to the given Apache Syncope deployment is established, a panel showing Mail Templates, Report XSLTs
 and Groovy implementations will appear on the left; by double-clicking on each folder, the list of available items
 is shown:
 
-image::netbeans08.png[netbeans08]
+image::../images/netbeans08.png[netbeans08]
 
 To refresh the list of available items, or to update the connection details, right-click on the
 `Apache Syncope` root node:
