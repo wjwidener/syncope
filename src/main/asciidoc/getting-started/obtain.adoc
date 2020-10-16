@@ -279,6 +279,7 @@ claim to store the data
 * `syncope` chart; this is the actual Apache Syncope install, which will deploy three separate pods
 (Core, Console, and Enduser)
 
+image::../../images/SyncopeLayoutInK8s.png[]
 image::SyncopeLayoutInK8s.png[]
 
 The installation steps are:
