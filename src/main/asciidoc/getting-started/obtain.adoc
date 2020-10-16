@@ -280,7 +280,6 @@ claim to store the data
 (Core, Console, and Enduser)
 
 image::../images/SyncopeLayoutInK8s.png[]
-image::SyncopeLayoutInK8s.png[]
 
 The installation steps are:
 
