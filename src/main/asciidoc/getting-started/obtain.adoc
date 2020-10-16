@@ -566,18 +566,18 @@ image::../images/netbeans08.png[netbeans08]
 To refresh the list of available items, or to update the connection details, right-click on the
 `Apache Syncope` root node:
 
-image::netbeans09.png[netbeans09]
+image::../images/netbeans09.png[netbeans09]
 
 To create a new item, right-click on the `Mail Templates`, `Report XSLTs` or `Groovy Implementations` folder and then
 click on `New` label:
 
-image::netbeans10.png[netbeans10]
+image::../images/netbeans10.png[netbeans10]
 
 [NOTE]
 ====
 Before creating or editing a mail or report template, a modal window will be shown to select the edit format:
 
-image::netbeans13.png[netbeans13]
+image::../images/netbeans13.png[netbeans13]
 ====
 
 To edit am item, double-click on the item name and an editor will appear. On save, the item content will be
@@ -585,4 +585,4 @@ uploaded to the configured Apache Syncope deployment.
 
 To delete an existing item, right-click on the item name and then click on `Delete`:
 
-image::netbeans11.png[netbeans11]
+image::../images/netbeans11.png[netbeans11]
